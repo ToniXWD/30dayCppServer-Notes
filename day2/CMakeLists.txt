@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project(CppServerDay1)
+project(CppServerDay2)
 
 set(CMAKE_CXX_STANDARD 11)
 
